@@ -1,4 +1,4 @@
-# 1000-system
+# thou-decimal
 
 "千字文" baseed 1000-decimal decoder
 
